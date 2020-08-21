@@ -388,6 +388,10 @@ li {
   text-align: center;
 }
 
+.content-text {
+  text-align: center;
+}
+
 /*--------------------------------
  Footer
 ---------------------------------*/
@@ -412,7 +416,7 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #ffe8f4;
+  background-color: #8c8c8c;
 }
 
 /*media Queries 767
