@@ -259,10 +259,11 @@ li {
 
 .about-body {
   flex: 1;
+  display: flex;
 }
 
 .about-picture {
-  display:inline-block;
+  display: inline-block;
 }
 
 .about-sentence {
