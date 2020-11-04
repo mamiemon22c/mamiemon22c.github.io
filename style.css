@@ -262,12 +262,11 @@ li {
 }
 
 .about-picture {
-  float: left;
+  display:inline-block;
 }
 
 .about-sentence {
-  text-align: center;
-  float: right;
+  display: inline;
 }
 
 
